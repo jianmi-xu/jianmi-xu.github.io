@@ -3,7 +3,7 @@ description: jianmi的个人博客，如有写的不对的话，还请指教！
 author: Jianmi
 avatar: /logo.png
 email: xushouxin.sam@gmail.com
-skin: Daylight
+skin: daylight
 
 plugins:
   - jekyll-seo-tag
