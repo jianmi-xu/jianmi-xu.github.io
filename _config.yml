@@ -5,6 +5,7 @@ avatar: /avatar.png
 email: xushouxin.sam@gmail.com
 skin: daylight
 lang: zh-cmn-Hans
+favicons: /favicon.ico
 
 plugins:
   - jekyll-seo-tag

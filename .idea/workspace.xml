@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001ebe0e-4c96-4e94-8ec3-d5dd75508651" name="Default Changelist" comment="feat($all):更改一些网站设置" />
+    <list default="true" id="001ebe0e-4c96-4e94-8ec3-d5dd75508651" name="Default Changelist" comment="feat($all):更改一些网站设置">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/custom-head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/custom-head.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597770872978</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat($all):更改一些网站设置">
+      <created>1597771298047</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1597771298047</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,10 +169,10 @@
       <screen x="0" y="24" width="1920" height="1056" />
     </state>
     <state x="235" y="109" width="1024" height="843" key="#Project_Structure/0.24.1920.1056@0.24.1920.1056" timestamp="1597481454591" />
-    <state x="274" y="294" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1597770880630">
+    <state x="274" y="294" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1597771302148">
       <screen x="0" y="24" width="1920" height="1056" />
     </state>
-    <state x="274" y="294" width="800" height="529" key="Vcs.Push.Dialog.v2/0.24.1920.1056@0.24.1920.1056" timestamp="1597770880630" />
+    <state x="274" y="294" width="800" height="529" key="Vcs.Push.Dialog.v2/0.24.1920.1056@0.24.1920.1056" timestamp="1597771302148" />
     <state x="234" y="81" width="1045" height="942" key="find.popup" timestamp="1597770117507">
       <screen x="0" y="24" width="1920" height="1056" />
     </state>
