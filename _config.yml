@@ -1,9 +1,10 @@
 title: Jianmi
-description: jianmi的个人博客，如有写的不对的话，还请指教！
+description: 一个不知名码农，从事后端开发工作
 author: Jianmi
-avatar: /logo.png
+avatar: /avatar.png
 email: xushouxin.sam@gmail.com
 skin: daylight
+lang: zh-cmn-Hans
 
 plugins:
   - jekyll-seo-tag
@@ -16,30 +17,9 @@ remote-theme: ngzhio/jekyll-theme-hamilton
 
 paginate: 10
 
-# Uncomment the below line and set the tracking ID for enabling Google Analytics
-# 
-# google_analytics: 
-
-# Uncomment the below lines and set the Disqus shortname for enabling Disqus
-# 
-# disqus:
-
-# Jekyll
-# ======
 exclude:
   - scripts/
   - README.md
   - jekyll-theme-hamilton.gemspec
+  - favicon_package_v0.16
 
-# Jekyll SEO Tag (Optional)
-# =========================
-twitter:
-  username: ngzhio
-  card: summary
-logo: logo.png
-social:
-  name: Jianmi
-  links:
-    - https://www.zhihu.com/people/xu-shou-xin-33
-    - https://github.com/jianmi-xu
-lang: en
