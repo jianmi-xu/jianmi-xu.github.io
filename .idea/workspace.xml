@@ -19,61 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001ebe0e-4c96-4e94-8ec3-d5dd75508651" name="Default Changelist" comment="feat($all):更改一些网站图标">
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="001ebe0e-4c96-4e94-8ec3-d5dd75508651" name="Default Changelist" comment="feat($2020):图片存储修改">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/social.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/custom-head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/disqus.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/disqus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/google-analytics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/mathjax.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/archive-taxonomies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/archive-years.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/hamilton/base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/hamilton/custom-styles.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/hamilton/functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/hamilton/layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/hamilton/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/hamilton/normalize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/hamilton/override-variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/hamilton/skin.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/hamilton/skins/daylight.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/hamilton/skins/midnight.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/hamilton/skins/sunrise.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/hamilton/skins/sunset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/hamilton/variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/skin-daylight.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/skin-midnight.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/skin-sunrise.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/skin-sunset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/skin.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jekyll-theme-hamilton.gemspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot-midnight.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot-sunrise.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/server" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/years.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutme.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597771518575</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="feat($all):更改一些网站主题">
+      <created>1597772709170</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1597772709170</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat($2020):图片存储修改">
+      <created>1597772923596</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1597772923596</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,17 +185,19 @@
     <MESSAGE value="feat($_posts):文章《Git提交规范》增加文章资料" />
     <MESSAGE value="feat($all):更改一些网站设置" />
     <MESSAGE value="feat($all):更改一些网站图标" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat($all):更改一些网站图标" />
+    <MESSAGE value="feat($all):更改一些网站主题" />
+    <MESSAGE value="feat($2020):图片存储修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat($2020):图片存储修改" />
   </component>
   <component name="WindowStateProjectService">
     <state x="235" y="109" width="1024" height="843" key="#Project_Structure" timestamp="1597481454591">
       <screen x="0" y="24" width="1920" height="1056" />
     </state>
     <state x="235" y="109" width="1024" height="843" key="#Project_Structure/0.24.1920.1056@0.24.1920.1056" timestamp="1597481454591" />
-    <state x="274" y="294" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1597771526604">
+    <state x="274" y="294" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1597772927703">
       <screen x="0" y="24" width="1920" height="1056" />
     </state>
-    <state x="274" y="294" width="800" height="529" key="Vcs.Push.Dialog.v2/0.24.1920.1056@0.24.1920.1056" timestamp="1597771526604" />
+    <state x="274" y="294" width="800" height="529" key="Vcs.Push.Dialog.v2/0.24.1920.1056@0.24.1920.1056" timestamp="1597772927703" />
     <state x="234" y="81" width="1045" height="942" key="find.popup" timestamp="1597770117507">
       <screen x="0" y="24" width="1920" height="1056" />
     </state>
